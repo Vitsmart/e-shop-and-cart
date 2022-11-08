@@ -1,0 +1,48 @@
+
+
+
+[
+
+    {
+        "id": 1,
+        "name": "Apple",
+        "price": 1.99,
+        "imgUrl": "./images/apples.jpeg"
+    },
+    
+    {
+        "id": 2,
+        "name": "phones",
+        "price": 109.5,
+        "imgUrl": "./images/phones.jpg"
+    },
+    
+    {
+        "id": 3,
+        "name": "Polo",
+        "price": 12.5,
+        "imgUrl": "./images/polo.jpg"
+    },
+    
+    {
+        "id": 4,
+        "name": "Best Sneakers",
+        "price": 15.5,
+        "imgUrl": "/images/sneakers.jpg"
+    },
+     
+    {
+        "id": 5,
+        "name": "sneakers",
+        "price": 18.5,
+        "imgUrl": "/images/sneakers1.jpeg"
+    },
+     
+    {
+        "id": 6,
+        "name": "Watch",
+        "price": 12.5,
+        "imgUrl": "/images/watch.jpeg"
+    }
+    
+]
